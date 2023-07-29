@@ -1,0 +1,33 @@
+
+.traffic-lights {
+  background: black;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: -5px;
+  padding: 5px;
+}
+.traffic-handle {
+  width: 20px;
+  height: 80px;
+  background-color: black;
+  margin: auto;
+}
+.traffic-lights .circle {
+  background-color: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}
+.red {
+  background: red;
+}
+.yellow {
+  background: yellow;
+}
+.green {
+  background: green;
+}
+.selected {
+  box-shadow: 0 0 40px 20px #c4ca83;
+}
