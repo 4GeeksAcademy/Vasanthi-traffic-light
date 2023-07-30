@@ -28,6 +28,9 @@
 .green {
   background: green;
 }
+.purple {
+  background: purple;
+}
 .selected {
   box-shadow: 0 0 40px 20px #c4ca83;
 }
